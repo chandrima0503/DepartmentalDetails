@@ -1,5 +1,4 @@
-# chandrima_OOPsAssignmentSolution
+# Department Details
 
-![alt text](https://github.com/chandrima0503/chandrima_OOPsAssignmentSolution/blob/master/Screenshot%202022-07-28%20at%203.37.51%20PM.png)
+There will be four departments in the system, HR Admin Tech each department will provide the information on departmentName, today'sWork, workDeadline, activity . Super Department will be parent class for all the other department and will return common information like Holiday details...
 
-![alt text](https://github.com/chandrima0503/chandrima_OOPsAssignmentSolution/blob/master/Screenshot%202022-07-28%20at%203.38.02%20PM.png)
